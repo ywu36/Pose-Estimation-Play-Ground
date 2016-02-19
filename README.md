@@ -1,2 +1,2 @@
 # ObjectPosePlayGround
-Release some of the useful functions and gadgets in my reserach
+Release some of useful functions in my PhD research.
