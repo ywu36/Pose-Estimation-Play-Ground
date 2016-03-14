@@ -14,3 +14,5 @@ How to use:
 3) 'if_visualization' could be set to either 0 or 1 depnds on whether the user hope to visualize the progress of alignment.
 
 4) Model and data are 2 by N matrix.
+
+5) Current implemented in 2D.
