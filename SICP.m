@@ -1,4 +1,12 @@
 function [A, T dataOut] = SICP(model, data, S0, param, if_visualization) % from data to model.
+%% Parameters explaination:
+% model: 2 x N point clouds,
+% data: 2 x N point clouds. The transformation of SICP is from the data to the model.
+% S0: 2 x 2 dignal matrix
+% param: define the number of iterations in inner and outer loop.
+% if_visualization: wheter you hope to visualize the process : 0 or 1.
+% Connection: ywu36@uh.edu,  Rein. Y. Wu
+
 %% Estimate mean points
 data_num = size(model,2);
 mean_model = mean(model,2);
