@@ -3,7 +3,7 @@ Will Release some of useful functions in my PhD research in object pose estimati
 
 1. SICP: Iterative closest point method with scaling parameters.
 
-Citation: 'AN EXTENSION OF THE ICP ALGORITHM CONSIDERING SCALE FACTOR', Shaoyi Du, Nanning Zheng, Shihui Ying, Qubo You, Yang Wu.
+Citation: 'An extension of the ICP algorithm considering scaling factor', Shaoyi Du, Nanning Zheng, Shihui Ying, Qubo You, Yang Wu.
 
 How to use:
 
